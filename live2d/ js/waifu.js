@@ -19,7 +19,7 @@ String.prototype.render = function (context) {
     });
 };
 
-var re = /x/;
+var re = /x/; 
 console.log(re);
 re.toString = function() {
     showMessage('哈哈，你打开了控制台，是想要看看我的秘密吗？', 5000, true);
@@ -33,7 +33,7 @@ $(document).on('copy', function (){
 function initTips() {
     $.ajax({
         cache: true,
-        url: "live2d/message.json",
+        url: "https://lqhsr.github.io/live2dModels/live2d/message.json",
         dataType: "json",
         success: function (result) {
             $.each(result.mouseover, function (index, tips) {
