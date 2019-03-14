@@ -14,7 +14,7 @@
     },
     {
       "selector": "#comment-form #misubmit",
-      "text": ["要提交了吗，首次评论需要审核，请耐心等待~"]
+      "text": ["要提交了吗，首次评论需要审核，请耐心等待~~~"]
     },
     {
       "selector": ".page-navigator .prev",
@@ -26,59 +26,67 @@
     },
     {
       "selector": ".navbar-menu a[href^='https://www.litblc.com/intro.html']",
-      "text": ["这里有一些关于我家主人的秘密哦，要不要看看呢"]
+      "text": ["这里有一些关于我家主人的小秘密哦，要不要看看呢"]
     },
     {
       "selector": "#rewardButton",
-      "text": ["主人最近在吃土呢，很辛苦的样子。给他一些钱钱吧~"]
+      "text": ["主人最近在吃树皮呢，程序员真辛苦，给他点个赞吧~~~"]
     },
     {
       "selector": ".github-corner",
-      "text": ["这里是我家主人的GitHub，去看看嘛~"]
+      "text": ["这里是我家主人的GitHub，去看看嘛~~~"]
     },
     {
       "selector": ".waifu #live2d",
-      "text": ["干嘛呢你，快把手拿开", "鼠…鼠标放错地方了！"]
+      "text": ["干嘛呢你，快把手拿开", "鼠...鼠标放错地方了！", "好痒呀...看在我这么可爱的分上就饶了我吧"]
     }
   ],
   "click": [
     {
       "selector": ".waifu #live2d",
-      "text": ["是…是不小心碰到了吧", "萝莉控是什么呀", "你看到我的小熊了吗", "再摸的话我可要报警了！⌇●﹏●⌇", "110吗，这里有个变态一直在摸我(ó﹏ò｡)"]
+      "text": ["是…是不小心碰到了吧", "你是故意的吧", "你是谁啊", "你关注我了吗", "再摸的话我可要报警了！⌇●﹏●⌇", "妖妖鳞吗，这里有个变态一直在摸我(ó﹏ò｡)"]
     }
   ],
   "seasons": [
     {
       "date": "01/01",
-      "text": "<span style=\"color:#0099cc;\">元旦</span>了呢，新的一年又开始了，{year}年打算做些什么呢~"
+      "text": "<span style=\"color:#0099cc;\">元旦</span>了呢，新的一年又开始了，{year}年打算做些什么呢，过年虽好可不要贪玩哟~~~"
     },
     {
       "date": "02/14",
-      "text": "又是一年<span style=\"color:#0099cc;\">情人节</span>，{year}年找到对象了嘛~"
+      "text": "又是一年<span style=\"color:#0099cc;\">情人节</span>，{year}年找到对象了嘛~~~"
     },
     {
       "date": "03/08",
-      "text": "今天是<span style=\"color:#0099cc;\">妇女节</span>！"
+      "text": "今天是<span style=\"color:#0099cc;\">女王节</span>！"
     },
     {
       "date": "03/12",
       "text": "今天是<span style=\"color:#0099cc;\">植树节</span>，要保护环境呀"
     },
     {
+      "date": "03/15",
+      "text": "今天是<span style=\"color:#0099cc;\">我亲爱的主人的生日</span>，记得祝他生日快乐哟~~~"
+    },
+    {
       "date": "04/01",
-      "text": "悄悄告诉你一个秘密~<span style=\"color:#34495e;background-color:#34495e;\">今天是愚人节，不要被骗了哦~</span>"
+      "text": "悄悄告诉你一个秘密~<span style=\"color:#34495e;background-color:#34495e;\">今天是愚人节，地上有张毛爷爷快捡起来！！！</span>"
     },
     {
       "date": "05/01",
-      "text": "今天是<span style=\"color:#0099cc;\">五一劳动节</span>，计划好假期去哪里了吗~"
+      "text": "今天是<span style=\"color:#0099cc;\">五一劳动节</span>，计划好假期去哪里劳动了吗~~~"
     },
     {
       "date": "06/01",
-      "text": "<span style=\"color:#0099cc;\">儿童节</span>了呢，快活的时光总是短暂，要是永远长不大该多好啊…"
+      "text": "<span style=\"color:#0099cc;\">儿童节</span>了呢，快活的时光总是短暂，要是永远长不大该多好啊..."
+    },
+    {
+      "date": "08/01",
+      "text": "<span style=\"color:#0099cc;\">中国人民解放军建军节</span>，解放军叔叔可威风了呢！"
     },
     {
       "date": "09/03",
-      "text": "<span style=\"color:#0099cc;\">中国人民抗日战争胜利纪念日</span>，铭记历史、缅怀先烈、珍爱和平、开创未来。"
+      "text": "<span style=\"color:#0099cc;\">中国人民抗日战争胜利纪念日</span>，铭记历史、缅怀先烈、珍爱和平、开创未来，快去打代码吧~~~。"
     },
     {
       "date": "09/10",
@@ -86,19 +94,23 @@
     },
     {
       "date": "10/01",
-      "text": "<span style=\"color:#0099cc;\">国庆节</span>，新中国已经成立69年了呢"
+      "text": "<span style=\"color:#0099cc;\">国庆节</span>，新中国已经成立70多年了呢"
     },
     {
       "date": "11/05-11/12",
-      "text": "今年的<span style=\"color:#0099cc;\">双十一</span>是和谁一起过的呢~"
+      "text": "今年的<span style=\"color:#0099cc;\">双十一</span>是和谁一起过的呢，可不要忘了复习NOIP哟~~~"
+    },
+    {
+      "date": "11/20",
+      "text": "今天对于我的主人来说是一个<span style=\"color:#0099cc;\">非常重要的日子</span>，记得提醒他哟~~~"
     },
     {
       "date": "12/20-12/28",
-      "text": "这几天是<span style=\"color:#0099cc;\">圣诞节</span>，主人肯定又去剁手买买买了~"
+      "text": "这几天是<span style=\"color:#0099cc;\">圣诞节</span>，主人肯定又去剁手买买买了~~~"
     },
     {
       "date": "12/29-12/31",
-      "text": "要<span style=\"color:#0099cc;\">年终</span>了哦~ 年初许下的愿望都实现了吗？"
+      "text": "要<span style=\"color:#0099cc;\">年终</span>了哦~~~ 年初许下的愿望都实现了吗？"
     }
   ]
 }
