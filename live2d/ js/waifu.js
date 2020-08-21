@@ -33,7 +33,7 @@ $(document).on('copy', function (){
 function initTips() {
     $.ajax({
         cache: true,
-        url: "https://lqhsr.github.io/live2dModels/live2d/message.json",
+        url: "https://lizonglin.gitee.io/live2dModels/live2d/message.json",
         dataType: "json",
         success: function (result) {
             $.each(result.mouseover, function (index, tips) {
